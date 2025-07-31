@@ -23,7 +23,7 @@ if (!userAgreement) {
         <div style="text-align: center; padding: 50px; color: white; background-color: rgba(0,0,0,0.8); height: 100vh;">
             <h1>Вы отказались от входа в DEMA</h1>
             <p>Возвращайтесь, когда будете готовы.</p>
-            <a href="page1.html" style="color: #ff66b2;">Вернуться на главную</a>
+            <a href="index.html" style="color: #ff66b2;">Вернуться на главную</a>
         </div>
     `;
 } else {
